@@ -1,0 +1,1 @@
+// TimeDuration.java mock

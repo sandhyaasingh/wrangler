@@ -1,0 +1,1 @@
+// ByteSize.java mock
